@@ -1,7 +1,8 @@
 "use client";
 
 import { useActionState } from "react";
-import { submitContact, initialState, type FormState } from "./actions";
+import { submitContact } from "./actions";
+import { initialState, type FormState } from "./form-state";
 
 export default function ContactForm() {
   const [state, formAction, pending] = useActionState<FormState, FormData>(
