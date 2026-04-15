@@ -8,7 +8,8 @@ Source of truth for site copy, positioning, and company facts. Update this file 
 - Team: Solo founder + contractors/advisors with 10+ years combined OEM experience
 - Primary domain: https://1885.ai
 - Secondary/redirect domain: https://get1885.com (owned; not yet wired to Vercel)
-- Contact email: hello@1885.ai (forwarded via Hover to jason.ennis@mypowersports.com)
+- Contact email: hello@1885.ai (forwarded via Hover to jason.ennis@gmail.com)
+- Contact form submissions (Resend → Vercel env CONTACT_TO_EMAIL) also land at jason.ennis@gmail.com
 - Planned additional email: info@1885.ai
 - Mailing address: 2575 N. Orange Blossom Trail, Kissimmee, FL 34744
 - Phone: none listed
