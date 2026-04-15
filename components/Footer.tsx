@@ -4,7 +4,6 @@ const socials = [
   { name: "Instagram", href: "https://instagram.com/get1885ai" },
   { name: "Facebook", href: "https://www.facebook.com/get1885ai" },
   { name: "YouTube", href: "https://www.youtube.com/channel/UC6_72pZL1e7z2zAl6RO3ZMg" },
-  { name: "TikTok", href: "https://www.tiktok.com/@try1885.ai" },
 ];
 
 export default function Footer() {

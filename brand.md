@@ -18,7 +18,6 @@ Source of truth for site copy, positioning, and company facts. Update this file 
 - Instagram: https://instagram.com/get1885ai
 - Facebook: https://www.facebook.com/get1885ai
 - YouTube: https://www.youtube.com/channel/UC6_72pZL1e7z2zAl6RO3ZMg (future handle @get1885ai)
-- TikTok: https://www.tiktok.com/@try1885.ai (migrate to @get1885ai after 30-day cooldown)
 - Stage: Pre-production. Early pilots launching soon with internal dealer group (anonymous on site).
 - Public launch target: 2026
 - Internal codename for current stack: "Maybach" (not used publicly)
