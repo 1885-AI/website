@@ -23,6 +23,9 @@ export default function Header() {
           <Link href="/about" className="hover:text-black transition">
             About
           </Link>
+          <Link href="/oem" className="hover:text-black transition">
+            OEM
+          </Link>
           <Link href="/contact" className="hover:text-black transition">
             Contact
           </Link>
