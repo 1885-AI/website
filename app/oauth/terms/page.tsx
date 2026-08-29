@@ -23,7 +23,7 @@ export default function OAuthTermsPage() {
       <p className="mt-6 leading-7 text-zinc-700">
         Questions: <a href="mailto:hello@1885.ai" className="text-black underline underline-offset-4">hello@1885.ai</a>
       </p>
-      <nav className="mt-12 flex gap-6 border-t border-zinc-200 pt-8 text-sm">
+      <nav aria-label="OAuth policy links" className="mt-12 flex gap-6 border-t border-zinc-200 pt-8 text-sm">
         <Link href="/oauth" className="font-medium text-black underline underline-offset-4">App information</Link>
         <Link href="/oauth/privacy" className="font-medium text-black underline underline-offset-4">Privacy Policy</Link>
       </nav>
