@@ -4,9 +4,9 @@ import Link from "next/link";
 const APP_PATH = "/oauth/hermes-personal-gmail";
 
 export const metadata: Metadata = {
-  title: "Hermes Personal Gmail Privacy Policy",
+  title: "Hermes - Personal Gmail Privacy Policy",
   description:
-    "Privacy policy for the private Hermes Personal Gmail OAuth integration.",
+    "Privacy policy for the private Hermes - Personal Gmail OAuth integration.",
 };
 
 export default function HermesPersonalGmailPrivacyPage() {
@@ -19,7 +19,7 @@ export default function HermesPersonalGmailPrivacyPage() {
         Privacy Policy
       </h1>
       <p className="mt-8 text-lg leading-8 text-zinc-700">
-        This policy describes how Hermes Personal Gmail, a private single-user
+        This policy describes how Hermes - Personal Gmail, a private single-user
         OAuth integration operated by Jason Ennis through 1885.ai, accesses,
         uses, stores, and shares Google user data.
       </p>

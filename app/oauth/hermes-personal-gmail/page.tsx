@@ -4,9 +4,9 @@ import Link from "next/link";
 const BASE_PATH = "/oauth/hermes-personal-gmail";
 
 export const metadata: Metadata = {
-  title: "Hermes Personal Gmail",
+  title: "Hermes - Personal Gmail",
   description:
-    "Information about the private Hermes Personal Gmail OAuth integration operated through 1885.ai.",
+    "Information about the private Hermes - Personal Gmail OAuth integration operated through 1885.ai.",
 };
 
 export default function HermesPersonalGmailPage() {
@@ -16,11 +16,11 @@ export default function HermesPersonalGmailPage() {
         Private OAuth integration
       </p>
       <h1 className="mt-4 text-4xl font-semibold tracking-tight text-black md:text-5xl">
-        Hermes Personal Gmail
+        Hermes - Personal Gmail
       </h1>
 
       <p className="mt-8 text-lg leading-8 text-zinc-700">
-        Hermes Personal Gmail is a private, single-user integration operated by
+        Hermes - Personal Gmail is a private, single-user integration operated by
         Jason Ennis through 1885.ai. It connects the account owner&apos;s Gmail
         account to a locally controlled Hermes Agent assistant. It is not
         offered as a public application or customer service.
@@ -52,7 +52,7 @@ export default function HermesPersonalGmailPage() {
       </section>
 
       <nav
-        aria-label="Hermes Personal Gmail legal information"
+        aria-label="Hermes - Personal Gmail legal information"
         className="mt-14 flex flex-col gap-3 border-t border-zinc-200 pt-8 text-sm sm:flex-row sm:gap-6"
       >
         <Link
