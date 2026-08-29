@@ -4,9 +4,9 @@ import Link from "next/link";
 const APP_PATH = "/oauth/hermes-personal-gmail";
 
 export const metadata: Metadata = {
-  title: "Hermes Personal Gmail Terms of Service",
+  title: "Hermes - Personal Gmail Terms of Service",
   description:
-    "Terms of service for the private Hermes Personal Gmail OAuth integration.",
+    "Terms of service for the private Hermes - Personal Gmail OAuth integration.",
 };
 
 export default function HermesPersonalGmailTermsPage() {
@@ -19,7 +19,7 @@ export default function HermesPersonalGmailTermsPage() {
         Terms of Service
       </h1>
       <p className="mt-8 text-lg leading-8 text-zinc-700">
-        These terms apply to Hermes Personal Gmail, a private single-user OAuth
+        These terms apply to Hermes - Personal Gmail, a private single-user OAuth
         integration operated by Jason Ennis through 1885.ai.
       </p>
 
