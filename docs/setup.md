@@ -33,9 +33,6 @@ Technical reference for the 1885.ai marketing site. Pairs with [`brand.md`](../b
 | `/` | `app/page.tsx` | Hero → Two Products → OEM Compliance → Differentiators → Contact CTA |
 | `/about` | `app/about/page.tsx` | Founder, team, mission, pilot, why-1885 |
 | `/contact` | `app/contact/page.tsx` | Static contact block + Server-Action form |
-| `/oauth/hermes-personal-gmail` | `app/oauth/hermes-personal-gmail/page.tsx` | Private OAuth app information page for Google Auth Platform |
-| `/oauth/hermes-personal-gmail/privacy` | `app/oauth/hermes-personal-gmail/privacy/page.tsx` | OAuth app privacy disclosure |
-| `/oauth/hermes-personal-gmail/terms` | `app/oauth/hermes-personal-gmail/terms/page.tsx` | OAuth app terms of service |
 | `/icon.png` | `app/icon.png` | 512×512 favicon (auto-wired by Next.js) |
 | `/apple-icon.png` | `app/apple-icon.png` | 180×180 iOS home-screen icon |
 | `/opengraph-image` | `app/opengraph-image.tsx` | Dynamic 1200×630 OG image (next/og) |
@@ -150,7 +147,6 @@ npm run lint      # eslint
 |---|---|
 | 2026-04-15 | Initial Next.js scaffold, Vercel deploy, custom domain + SSL |
 | 2026-04-15 | Full landing page (home / about / contact), contact form w/ Resend, brand.md, socials in footer, favicon + OG image from logo |
-| 2026-08-29 | Added private Hermes Personal Gmail OAuth homepage, privacy policy, and terms routes for Google Auth Platform production branding |
 
 ---
 
