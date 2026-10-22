@@ -11,6 +11,7 @@ Technical reference for the 1885.ai marketing site. Pairs with [`brand.md`](../b
 - **Hosting:** Vercel (Hobby plan)
 - **Domain registrar + DNS:** Hover
 - **Transactional email:** Resend
+- **Analytics:** Vercel Web Analytics (`@vercel/analytics`, `<Analytics />` in `app/layout.tsx`). Turn it on under the project's Analytics tab in Vercel to collect data.
 - **Inbound email:** Hover email forwarding (paid, $5/yr)
 
 ---
@@ -37,7 +38,7 @@ Technical reference for the 1885.ai marketing site. Pairs with [`brand.md`](../b
 | `/apple-icon.png` | `app/apple-icon.png` | 180×180 iOS home-screen icon |
 | `/opengraph-image` | `app/opengraph-image.tsx` | Dynamic 1200×630 OG image (next/og) |
 
-Shared layout: `app/layout.tsx` (metadata, fonts, `<Header />`, `<Footer />`)
+Shared layout: `app/layout.tsx` (metadata, fonts, `<Header />`, `<Footer />`, `<Analytics />`)
 Shared chrome: `components/Header.tsx`, `components/Footer.tsx`
 
 ---
